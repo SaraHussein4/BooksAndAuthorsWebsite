@@ -2,25 +2,25 @@
     color: rgb(46, 36, 31) !important;
 }
 .nav-tabs .nav-link{
-    color: #5e4f30;
+    color: #8A6F5C;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
 }
 
 .active>.page-link{
-    background-color: #5e4f30;
+    background-color: #8A6F5C;
     border: 1px solid white;
 
 }
 
 .page-link{
-    color: #5e4f30;
+    color: #8A6F5C;
     margin: 0px 10px;
     border-radius: 10px;
 }
 
 .page-link:hover{
-    background-color: #5e4f30;
+    background-color: #8A6F5C;
     border: 1px solid white;  
     color: white;
 }

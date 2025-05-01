@@ -4,7 +4,7 @@
     width: 100%;
     min-height: 100%;
     padding: 15px;
-    background: #edebe4 ;
+    /* background: #edebe4 ; */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -21,6 +21,8 @@
     justify-content: space-between;
     align-items: center;
     padding: 90px 130px 88px 148px;
+    box-shadow: 20px -20px 20px 20px #ededed;
+    
 }
 
 .contact1-pic {
@@ -125,7 +127,7 @@ textarea.input1 {
     min-width: 193px;
     height: 50px;
     border-radius: 25px;
-    background: #664E2B;
+    background: #8A6F5C;
     font-family: Montserrat-Bold;
     font-size: 15px;
     line-height: 1.5;
