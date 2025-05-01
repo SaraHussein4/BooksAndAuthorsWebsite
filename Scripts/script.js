@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             const BookHTML = `
                <div class="col-md-3 col-sm-6 col-6" style="height:500px">
-  <div class="product-item">
+  <div class="product-item" style="height:500px">
     <div class="product-style">
       <img src="${image}" alt="Books" class="product-image" style="height:360px;">
       <button type="button" class="add-to-cart" data-bs-toggle="modal" data-bs-target="#myModal" data-id="${book.id}">Read More</button>
